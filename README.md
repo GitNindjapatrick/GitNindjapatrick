@@ -4,7 +4,10 @@ RESEAU DE NEURONNE GRAPHIQUE
 **GitNindjapatrick/GitNindjapatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![Mon image](https://github.com/GitNindjapatrick/GitNindjapatrick/xtb_Crest_sharber_notebook_/images/Pyscf.png
+)
 
+/xtb_Crest_sharber_notebook_/images
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
