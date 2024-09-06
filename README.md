@@ -1,31 +1,31 @@
 ## Hi there 👋 ✨😄
-#  ✨⭐Bonjour, je suis `MVOTO KONGO Patrick Sorrel`⭐ ✨
+#  ✨⭐Hello, I am `MVOTO KONGO Patrick Sorrel`⭐ ✨
 
-👨‍🎓 **Étudiant en Master 2 Physique** au laboratoire de Physique Atomique, Moléculaire et Biophysique.
+👨‍🎓 **Master’s Degree Student in Physics** at the Laboratory of Atomic, Molecular, and Biophysical Physics.
 
-🌱 Je suis passionné par plusieurs domaines scientifiques et technologiques, notamment :
+🌱 I am passionate about several scientific and technological fields, including:
 ---
 <table width="100%"><tr style="background-color:white;">
     <td style="text-align:left;padding:0px;width:142px'">
 <table>
     <tr>
-        <td><strong>Intelligence Artificielle (IA)</strong></td>
+        <td><strong>Artificial Intelligence (AI)</strong></td>
         <td><img src="https://png.pngtree.com/png-vector/20240319/ourmid/pngtree-artificial-intelligence-logo-png-image_11963142.png" width="100"></td>
     </tr>
     <tr>
-        <td><strong>Apprentissage Automatique (Machine Learning) et Deep Learning</strong></td>
+        <td><strong>Machine Learning and Deep Learning</strong></td>
         <td><img src="https://kaizen-solutions.net/Medias/content/Workflow.drawio-1000039.png" width="100"></td>
     </tr>
     <tr>
-        <td><strong>Informatique Quantique</strong></td>
+        <td><strong>Quantum Computing</strong></td>
         <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQS-agW1Eajg_W69mWrB7ERyWkwq-Hx42SvzIXjrVuGxbtjNCfJQLRk7ETXBVkBJZLr8&usqp=CAU" width="100"></td>
     </tr>
     <tr>
-        <td><strong>Chimie Quantique</strong></td>
+        <td><strong>Quantum Chemistry</strong></td>
         <td><img src="https://dwg31ai31okv0.cloudfront.net/images/Article_Images/ImageForArticle_121(1).jpg" width="100"></td>
     </tr>
     <tr>
-        <td><strong>Dynamique Moléculaire</strong></td>
+        <td><strong>Molecular Dynamics</strong></td>
         <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2oIzhm32i2Ssa1zbYmOwgb_APXRWIPuv0w&s" width="100"></td>
     </tr>
 </table>
@@ -43,13 +43,13 @@
 </table>
 
 
-## 🌍 Réseaux Sociaux 💬
+## 🌍 Social Networks 💬
 
 [LinkedIn](https://linkedin.com/in/patrick-sorrel-mvoto-kongo-641a41273)
 
 ---
 
-###  🔭 Bibliothèques et Outils :
+###  🔭 Libraries and Tools :
 
 <p align="center">
   <img src="https://www.cresset-group.com/media/uploads/files/746x486_RDKit-UGM-thumbnail.png" alt="RDKit" width="100" height="100"/>
@@ -72,12 +72,12 @@
 
 ---
 
-## Liens vers les outils et bibliothèques :
+## Links to Tools and Libraries :
 
 |[Python](https://www.python.org/)| [MATLAB](https://www.mathworks.com/products/matlab.html)|[LaTeX](https://www.latex-project.org/)|[Ubuntu](https://ubuntu.com/)|[RDKit](https://www.rdkit.org/)
 | [Open Babel](https://openbabel.org/wiki/Main_Page)|[PySCF](https://pyscf.org/)| [CREST](https://crest-openmgc.readthedocs.io/en/latest/)|[xTB](https://xtb-docs.readthedocs.io/en/latest/)| [Pandas](https://pandas.pydata.org/)|[ Scikit-learn](https://scikit-learn.org/)|[ PyTorch](https://pytorch.org/)|
   | [TensorFlow](https://www.tensorflow.org/)|[hvPlot](https://hvplot.holoviz.org/)|
- 
+
 <!--
 **GitNindjapatrick/GitNindjapatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
