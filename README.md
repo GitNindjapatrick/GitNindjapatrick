@@ -74,20 +74,9 @@
 
 ## Liens vers les outils et bibliothèques :
 
-- [Python](https://www.python.org/)
-- [MATLAB](https://www.mathworks.com/products/matlab.html)
-- [LaTeX](https://www.latex-project.org/)
-- [Ubuntu](https://ubuntu.com/)
-- [RDKit](https://www.rdkit.org/)
-- [Open Babel](https://openbabel.org/wiki/Main_Page)
-- [PySCF](https://pyscf.org/)
-- [CREST](https://crest-openmgc.readthedocs.io/en/latest/)
-- [xTB](https://xtb-docs.readthedocs.io/en/latest/)
-- [Pandas](https://pandas.pydata.org/)
-- [Scikit-learn](https://scikit-learn.org/)
-- [PyTorch](https://pytorch.org/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [hvPlot](https://hvplot.holoviz.org/)
+|[Python](https://www.python.org/)| [MATLAB](https://www.mathworks.com/products/matlab.html)|[LaTeX](https://www.latex-project.org/)|[Ubuntu](https://ubuntu.com/)|[RDKit](https://www.rdkit.org/)
+| [Open Babel](https://openbabel.org/wiki/Main_Page)|[PySCF](https://pyscf.org/)| [CREST](https://crest-openmgc.readthedocs.io/en/latest/)|[xTB](https://xtb-docs.readthedocs.io/en/latest/)| [Pandas](https://pandas.pydata.org/)|[ Scikit-learn](https://scikit-learn.org/)|[ PyTorch](https://pytorch.org/)|
+  | [TensorFlow](https://www.tensorflow.org/)|[hvPlot](https://hvplot.holoviz.org/)|
  
 <!--
 **GitNindjapatrick/GitNindjapatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
