@@ -102,14 +102,16 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7D5KlrrQoeUHQrqQPwczOYFf6B8_yBgrX7Q&s" alt="JMOL" width="100" height="100"/>
   <img src="https://avatars.githubusercontent.com/u/47895636?s=280&v=4" alt="chempreps" width="100" height="100"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgl8KUFboFTc8brkmeMq4D5nYOp5FpPj4oow&s" alt="chempreps" width="100" height="100"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BsHHtHU9REACK4chtEawAWlm1wsGIP1ZQw&s" alt="Vscode" width="100" height="100"/>
+    <img src="https://miro.medium.com/v2/resize:fit:518/1*FogMIj4gYwp3fTHLZuwavQ.png" alt="jupyter" width="100" height="100"/>
+  
 </p>
 
 ---
 
 ## ⚡ Links to Tools and Libraries :
 
-|[Python](https://www.python.org/)| [MATLAB](https://www.mathworks.com/products/matlab.html)|[LaTeX](https://www.latex-project.org/)|[Ubuntu](https://ubuntu.com/)|[RDKit](https://www.rdkit.org/)
-| [Open Babel](https://openbabel.org/wiki/Main_Page)|[PySCF](https://pyscf.org/)| [CREST](https://crest-openmgc.readthedocs.io/en/latest/)|[xTB](https://xtb-docs.readthedocs.io/en/latest/)| [Pandas](https://pandas.pydata.org/)|[ Scikit-learn](https://scikit-learn.org/)|[ PyTorch](https://pytorch.org/)|[TensorFlow](https://www.tensorflow.org/)|[hvPlot](https://hvplot.holoviz.org/)|
+|[Python](https://www.python.org/)| [MATLAB](https://www.mathworks.com/products/matlab.html)|[LaTeX](https://www.latex-project.org/)|[Ubuntu](https://ubuntu.com/)|[Vscode](https://code.visualstudio.com/)|[Jupyter](https://jupyter.org/)|[RDKit](https://www.rdkit.org/)| [Open Babel](https://openbabel.org/wiki/Main_Page)|[PySCF](https://pyscf.org/)| [CREST](https://crest-openmgc.readthedocs.io/en/latest/)|[xTB](https://xtb-docs.readthedocs.io/en/latest/)| [Pandas](https://pandas.pydata.org/)|[ Scikit-learn](https://scikit-learn.org/)|[ PyTorch](https://pytorch.org/)|[TensorFlow](https://www.tensorflow.org/)|[hvPlot](https://hvplot.holoviz.org/)|
 
 <!--
 **GitNindjapatrick/GitNindjapatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
