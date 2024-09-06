@@ -1,7 +1,44 @@
 ## Hi there 👋 ✨😄
-#  ✨⭐Hello, I am `MVOTO KONGO Patrick Sorrel`⭐ ✨
+#  ✨⭐ _Hello, I am `MVOTO KONGO Patrick Sorrel`_ ⭐ ✨
 
 👨‍🎓 **Master’s Degree Student in Physics** at the Laboratory of Atomic, Molecular, and Biophysical Physics.
+## 🌍 Social Networks 📫💬
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/patrick-sorrel-mvoto-kongo-641a41273" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  
+  <!-- Email 1 -->
+  <a href="mailto:sorrel.mvoto@facsciences-uy1.cm" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  </a>
+  
+  <!-- Email 2 -->
+  <a href="mailto:sorrel.mvotofacsciences@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/+237654146041" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp" width="40" height="40"/>
+  </a>
+  
+  <!-- Telegram -->
+  <a href="https://t.me/+237654146041" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="40" height="40"/>
+  </a>
+  
+  <!-- Phone -->
+  <a href="tel:+237621230892" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Phone" width="40" height="40"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/GitNindjapatrick/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
 
 🌱 I am passionate about several scientific and technological fields, including:
 ---
@@ -43,9 +80,6 @@
 </table>
 
 
-## 🌍 Social Networks 💬
-
-[LinkedIn](https://linkedin.com/in/patrick-sorrel-mvoto-kongo-641a41273)
 
 ---
 
@@ -72,7 +106,7 @@
 
 ---
 
-## Links to Tools and Libraries :
+## ⚡ Links to Tools and Libraries :
 
 |[Python](https://www.python.org/)| [MATLAB](https://www.mathworks.com/products/matlab.html)|[LaTeX](https://www.latex-project.org/)|[Ubuntu](https://ubuntu.com/)|[RDKit](https://www.rdkit.org/)
 | [Open Babel](https://openbabel.org/wiki/Main_Page)|[PySCF](https://pyscf.org/)| [CREST](https://crest-openmgc.readthedocs.io/en/latest/)|[xTB](https://xtb-docs.readthedocs.io/en/latest/)| [Pandas](https://pandas.pydata.org/)|[ Scikit-learn](https://scikit-learn.org/)|[ PyTorch](https://pytorch.org/)|[TensorFlow](https://www.tensorflow.org/)|[hvPlot](https://hvplot.holoviz.org/)|
