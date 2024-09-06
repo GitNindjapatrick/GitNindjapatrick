@@ -1,26 +1,47 @@
 ## Hi there 👋 ✨😄
-# Bonjour, je suis `MVOTO KONGO Patrick Sorrel` ⭐ ✨
+#  ✨⭐Bonjour, je suis `MVOTO KONGO Patrick Sorrel`⭐ ✨
 
 👨‍🎓 **Étudiant en Master 2 Physique** au laboratoire de Physique Atomique, Moléculaire et Biophysique.
 
 🌱 Je suis passionné par plusieurs domaines scientifiques et technologiques, notamment :
-
-- **Intelligence Artificielle (IA)**  
-  ![IA Logo](https://png.pngtree.com/png-vector/20240319/ourmid/pngtree-artificial-intelligence-logo-png-image_11963142.png)
-  
-- **Apprentissage Automatique (Machine Learning) et Deep Learning**  
-  ![Machine Learning Logo](https://kaizen-solutions.net/Medias/content/Workflow.drawio-1000039.png)
-  
-- **Informatique Quantique**  
-  ![Quantum Computing Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQS-agW1Eajg_W69mWrB7ERyWkwq-Hx42SvzIXjrVuGxbtjNCfJQLRk7ETXBVkBJZLr8&usqp=CAU)
-
-- **Chimie Quantique**  
-  ![Chimie Quantique Image](https://dwg31ai31okv0.cloudfront.net/images/Article_Images/ImageForArticle_121(1).jpg)
-
-- **Dynamique Moléculaire**  
-  ![Dynamique Moléculaire Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2oIzhm32i2Ssa1zbYmOwgb_APXRWIPuv0w&s)
-
 ---
+<table width="100%"><tr style="background-color:white;">
+    <td style="text-align:left;padding:0px;width:142px'">
+<table>
+    <tr>
+        <td><strong>Intelligence Artificielle (IA)</strong></td>
+        <td><img src="https://png.pngtree.com/png-vector/20240319/ourmid/pngtree-artificial-intelligence-logo-png-image_11963142.png" width="100"></td>
+    </tr>
+    <tr>
+        <td><strong>Apprentissage Automatique (Machine Learning) et Deep Learning</strong></td>
+        <td><img src="https://kaizen-solutions.net/Medias/content/Workflow.drawio-1000039.png" width="100"></td>
+    </tr>
+    <tr>
+        <td><strong>Informatique Quantique</strong></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQS-agW1Eajg_W69mWrB7ERyWkwq-Hx42SvzIXjrVuGxbtjNCfJQLRk7ETXBVkBJZLr8&usqp=CAU" width="100"></td>
+    </tr>
+    <tr>
+        <td><strong>Chimie Quantique</strong></td>
+        <td><img src="https://dwg31ai31okv0.cloudfront.net/images/Article_Images/ImageForArticle_121(1).jpg" width="100"></td>
+    </tr>
+    <tr>
+        <td><strong>Dynamique Moléculaire</strong></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2oIzhm32i2Ssa1zbYmOwgb_APXRWIPuv0w&s" width="100"></td>
+    </tr>
+</table>
+    </td>
+  <!-- ############################################# -->
+    
+  </tr>
+</table>
+    <td width="*">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <!-- ############################################# -->
+    
+</td>
+    
+   
+</table>
+
 
 ## 🌍 Réseaux Sociaux 💬
 
