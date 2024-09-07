@@ -3,6 +3,7 @@
 
 👨‍🎓 **Master’s Degree Student in Physics** at the Laboratory of Atomic, Molecular, and Biophysical Physics.
 ## 🌍 Social Networks 📫💬
+
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/patrick-sorrel-mvoto-kongo-641a41273" target="_blank">
@@ -38,7 +39,20 @@
   <a href="https://github.com/GitNindjapatrick/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
   </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/invites/contact/?igsh=82f84u7e1nih&utm_content=soe2a5k" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  
+  <!-- Twitter -->
+  <a href="https://x.com/MvotoSorrel11?t=0UhO-uBp-gSMzfACZeTcKQ&s=09" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/>
+  </a>
 </p>
+
+
+
 
 🌱 I am passionate about several scientific and technological fields, including:
 ---
