@@ -1,7 +1,7 @@
 ## Hi there 👋 ✨😄
 #  ✨⭐ _Hello, I am `MVOTO KONGO Patrick Sorrel`_ ⭐ ✨
 
-👨‍🎓 **Master’s Degree Student in Physics** at the Laboratory of Atomic, Molecular, and Biophysical Physics.
+👨‍🎓 **Master’s Graduate in Physics** at the Laboratory of Atomic, Molecular, and Biophysical Physics.
 ## 🌍 Social Networks 📫💬
 
 <p align="center">
